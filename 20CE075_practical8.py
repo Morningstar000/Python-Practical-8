@@ -1,5 +1,6 @@
 # 20CE075 Parth Parmar
 # Practical 8: Write a Program in Python to implement a Stack Data Structure using Class and Objects, with push, pop, and traversal method.
+# https://github.com/Morningstar000/Python-Practical-8
 
 class stack:
     def __init__(self):
